@@ -129,3 +129,4 @@ output/
 **/.DS_Store
 *.stignore
 *.ipynb
+*.zip
